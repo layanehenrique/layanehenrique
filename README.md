@@ -48,5 +48,5 @@ Quando não estou trabalhando com dados, gosto de ler, praticar esportes, desenv
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediário-FF6B6B?style=flat" alt="Teste A/B Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediário-4ECDC4?style=flat" alt="Análise Estatítica Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Avançado-96CEB4?style=flat" alt="KPI Skill Badge">
+  <img src="https://img.shields.io/badge/Desenvolvimento%20KPI-Avançado-96CEB4?style=flat" alt="KPI Skill Badge">
 </p>
