@@ -10,41 +10,43 @@
 </p>
 
 ## 🚀 Sobre mim 
-Sou analista de dados e tenho paixão por ajudar empresas a compreenderem seus dados. Gosto de transformar conjuntos de dados complexos e desorganizados em narrativas claras e insights acionáveis.
+Sou analista de dados e quero ajudar empresas a compreenderem seus dados. Busco transformar conjuntos de dados complexos e desorganizados em narrativas claras e insights acionáveis.
 
-Meu foco é construir dashboards que sejam usados, automatizar tarefas repetitivas para liberar as equipes para problemas mais interessantes e criar modelos que ajudem as empresas a planejar o futuro.
+Meu foco é construir dashboards interativos que sejam usados, automatizar tarefas repetitivas para liberar as equipes para problemas mais interessantes e criar modelos que ajudem as empresas a planejar o futuro.
 
-Quando não estou trabalhando com dados, gosto de ler, praticar esportes, desenvolver novas habilidades e estudar música. Adoro o momento "eureka!" quando os dados revelam algo novo e útil.
+Quando não estou trabalhando com dados, gosto de ler, praticar esportes, desenvolver novas habilidades e estudar música. 
 
-### [🏆 Confira meu portfólio completo em nosso site.](https://layanehenrique.github.io/)
+### [🏆 Confira meu portfólio completo acessando meu site](https://layanehenrique.github.io/)
       
 ## 🔭 No que estou trabalhando atualmente 
 
-- **Projeto 1:** Análise de dados em Google Sheets e Data Studio -
-- análise de playlists x streams do spotify
+- **Projeto 1:** Análise de dados em Google Sheets e Data Studio - Caso Spotify
+- **Projeto 2:** Anáse de dados em SQL e Power BI - Caso de vendas
 
 ## 🌱 Atualmente aprendendo
 
 - BigQuery, Google Sheets, Excel, PowerBI, SQL, Data Studio, Claude. 
 
-## 🛠️ Technical Skillset
+## 🛠️ Habilidades técnicas
 
-#### Data Analysis & Visualization
+#### Análise e Visualização de Dados
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/DataStudio-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="DataStudio Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-Iniciante-4479A1?style=flat&logo=SQL&logoColor=white" alt="SQL Skill Badge">
+  <img src="https://img.shields.io/badge/BigQuery-Iniciante-4479A1?style=flat&logo=big-query&logoColor=white" alt="BigQuery Skill Badge">
+  <img src="https://img.shields.io/badge/Power%20BI-Intermediário-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
+    <img src="https://img.shields.io/badge/Data%20Studio-Intermediário-F2C811?style=flat&logo=datastudio&logoColor=black" alt="Data Studio Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Avançado-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+   <img src="https://img.shields.io/badge/IA-Avançado-217346?style=flat&logo=IA&logoColor=white" alt="IA Skill Badge">
 </p>
 
-#### Programming & Automation
+#### Programação & Automação
 <p>
-  <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-Iniciante-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 
 #### Business Intelligence & Analytics
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/A%2FB%20Testing-Intermediário-FF6B6B?style=flat" alt="Teste A/B Skill Badge">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-Intermediário-4ECDC4?style=flat" alt="Análise Estatítica Skill Badge">
+  <img src="https://img.shields.io/badge/KPI%20Development-Avançado-96CEB4?style=flat" alt="KPI Skill Badge">
 </p>
