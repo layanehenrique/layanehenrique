@@ -1,7 +1,7 @@
 ## Olá, eu sou Layane 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Analista+de+Dados%7C+Business+Intelligence;Tranformando+dados+em+insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Business+Intelligence;Transformando+dados+em+insights" />
 </div>
 
 <p align="center">
