@@ -1,4 +1,4 @@
-## Olá, eu sou Layane 👋
+## Olá, eu sou Layane
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Analista+de+Dados+%7C+Business+Intelligence;Transformando+dados+em+insights" />
@@ -9,25 +9,25 @@
   <a href="mailto:layanehenrique.contato@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 Sobre mim 
+## Sobre mim 
 Sou analista de dados e quero ajudar empresas a compreenderem seus dados. Busco transformar conjuntos de dados complexos e desorganizados em narrativas claras e insights acionáveis.
 
 Meu foco é construir dashboards interativos que sejam usados, automatizar tarefas repetitivas para liberar as equipes para problemas mais interessantes e criar modelos que ajudem as empresas a planejar o futuro.
 
 Quando não estou trabalhando com dados, gosto de ler, praticar esportes, desenvolver novas habilidades e estudar música. 
 
-### [🏆 Confira meu portfólio completo acessando meu site](https://layanehenrique.github.io/)
+### [Confira meu portfólio completo acessando meu site](https://layanehenrique.github.io/)
       
-## 🔭 No que estou trabalhando atualmente 
+## No que estou trabalhando atualmente 
 
 - **Projeto 1:** Análise de dados em Google Sheets e Data Studio - Caso Spotify
 - **Projeto 2:** Anáse de dados em SQL e Power BI - Caso de vendas
 
-## 🌱 Atualmente aprendendo
+## Atualmente aprendendo
 
 - BigQuery, Google Sheets, Excel, PowerBI, SQL, Data Studio, Claude. 
 
-## 🛠️ Habilidades técnicas
+## Habilidades técnicas
 
 #### Análise e Visualização de Dados
 <p>
