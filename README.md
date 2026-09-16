@@ -18,18 +18,13 @@ Quando não estou trabalhando com dados, gosto de ler, praticar esportes, desenv
 
 ### [Confira meu portfólio completo acessando meu site](https://layanehenrique.github.io/)
       
-## No que estou trabalhando atualmente 
+## Meus principais projetos
 
 - **Projeto 1:** Análise de dados em Google Sheets e Data Studio - Caso Spotify
-- **Projeto 2:** Anáse de dados em SQL e Power BI - Caso de vendas
 
-## Atualmente aprendendo
-
-- BigQuery, Google Sheets, Excel, PowerBI, SQL, Data Studio, Claude. 
 
 ## Habilidades técnicas
 
-#### Análise e Visualização de Dados
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Iniciante-4479A1?style=flat&logo=SQL&logoColor=white" alt="SQL Skill Badge">
@@ -40,11 +35,9 @@ Quando não estou trabalhando com dados, gosto de ler, praticar esportes, desenv
    <img src="https://img.shields.io/badge/IA-Avançado-217346?style=flat&logo=IA&logoColor=white" alt="IA Skill Badge">
 </p>
 
-#### Programação & Automação
 <p>
   <img src="https://img.shields.io/badge/Python-Iniciante-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 
-#### Business Intelligence & Analytics
 <p>
   <img src="https://img.shields.io/badge/Teste%20A%2FB%20-Intermediário-FF6B6B?style=flat" alt="Teste A/B Skill Badge">
   <img src="https://img.shields.io/badge/Análise%20Estatística-Intermediário-4ECDC4?style=flat" alt="Análise Estatítica Skill Badge">
